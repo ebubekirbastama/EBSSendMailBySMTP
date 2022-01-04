@@ -1,9 +1,10 @@
 # EBSSendMailBySMTP
 Öncelikle kullanmak için "KullanıcıBilgileri" dizisindeki gerekli yerleri doldurmanız gerekmektedir.
-KullanıcıBilgileri[0] = Mailadresi Bilgisi.
-KullanıcıBilgileri[1] = Şifre Bilgisi.
-KullanıcıBilgileri[2] = Mailadresi BilgisiHost Bilgisi.
-KullanıcıBilgileri[3] = Mailadresi BilgisiPort Bilgisi.
-KullanıcıBilgileri[4] = Mesaj From Bilgisi.
-KullanıcıBilgileri[5] = Mesaj To BilgisiPort Bilgisi.
-Ayrıca Dosya da yollayabilirsiniz eğer "Dosyayolu" boş ise normal mesaj yollarsınız...
+<hr>
+1-) KullanıcıBilgileri[0] = Mailadresi Bilgisi.<br>
+2-) KullanıcıBilgileri[1] = Şifre Bilgisi.<br>
+3-) KullanıcıBilgileri[2] = Mailadresi BilgisiHost Bilgisi.<br>
+4-) KullanıcıBilgileri[3] = Mailadresi BilgisiPort Bilgisi.<br>
+5-) KullanıcıBilgileri[4] = Mesaj From Bilgisi.<br>
+6-) KullanıcıBilgileri[5] = Mesaj To BilgisiPort Bilgisi.<br>
+7-) Ayrıca Dosya da yollayabilirsiniz eğer "Dosyayolu" boş ise normal mesaj yollarsınız...<br>
